@@ -9,8 +9,8 @@ on:
     types: [created, edited]
 
 jobs:
-  giphy-generator
-    name: GIPHY Generator
+  giphy-generator:
+    name: giphy Generator
     runs-on: ubuntu-latest
     steps:
       - name: GIPHY Generator
