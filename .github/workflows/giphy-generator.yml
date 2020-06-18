@@ -10,7 +10,7 @@ on:
 
 jobs:
   giphy-generator:
-    name: giphy Generator
+    name: GIPHY Generator
     runs-on: ubuntu-latest
     steps:
       - name: GIPHY Generator
